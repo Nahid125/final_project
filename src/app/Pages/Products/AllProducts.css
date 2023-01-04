@@ -1,0 +1,32 @@
+.mb-4:hover{
+    background: grey;
+    border-radius: 15px;
+}
+.first-mb-4{
+    height: 100%;
+    background: #fafcfc;
+    box-shadow: 10px 10px 20px white, -10px -10px 20px white;
+    border: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+h4.mb-4{
+    height: 100%;
+    background: #fafcfc;
+    box-shadow: 10px 10px 20px white, -10px -10px 20px white;
+    border: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 15px;
+}
+h4.mb-4:hover{
+    background: white;
+}
+.text-center.mb-4:hover{
+    background: none;
+}

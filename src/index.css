@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300;400;500&display=swap");
+body {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+  -webkit-font-smoothing: sans-serif;
+  -moz-osx-font-smoothing: sans-serif;
+  background-image: url(https://cdn.dribbble.com/users/2224400/screenshots/4808075/ezgif.com-optimize.gif);
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
